@@ -11,7 +11,7 @@ Thanks for supporting our website and enjoy!
 
 + [Demo page](http://designmodo.github.com/Flat-UI/)
 + [Official page](http://designmodo.com/flat-free)
-+ [Subscribe for Premium Version of Flat UI](http://designmodo.com/flat/)
++ [Premium Version of Flat UI](http://designmodo.com/flat/)
 
 ## Changelog
 
@@ -32,3 +32,6 @@ Thanks for supporting our website and enjoy!
 
 ## Typeface
 Flat UI Free is made using the Lato typeface, which can be downloaded for free here: http://www.google.com/webfonts/specimen/Lato
+
+## How-to
+Run `sass sass/flat-ui.sass`.
